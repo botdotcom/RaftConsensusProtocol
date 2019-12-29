@@ -1,0 +1,6 @@
+Server Code : RaftMod.java
+
+Steps to Run
+java -cp raft-1.0-SNAPSHOT-jar-with-dependencies.jar RaftMod "127.0.0.1" 1111
+<Last 2 args are ip port>
+

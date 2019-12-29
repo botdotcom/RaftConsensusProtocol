@@ -1,0 +1,4 @@
+WriteToFile for VotedFor and candidateId
+ThreadPool for RPC calls
+SQL lite for persitent data
+
